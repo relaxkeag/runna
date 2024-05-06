@@ -72,11 +72,11 @@ examine made ts
 getgenv().Silent = {
     Setting = {
         IsTargetting = true,
-        Prediction = 0.123,
-        TargetPart = "HumanoidRootPart",
+        Prediction = 0.119,
+        TargetPart = "UpperTorso",
         WallCheck = true,
         FOV = {
-            Radius = 90,
+            Radius = 95,
             Visible = false
         }
     }
